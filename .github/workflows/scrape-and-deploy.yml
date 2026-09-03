@@ -1,0 +1,71 @@
+name: Automated Prop Intel Sync & 24/7 Deploy
+
+on:
+  schedule:
+    # Runs every 6 hours automatically (even when your laptop is completely off)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual 1-click execution anytime from GitHub UI
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Run Prop Intel Scraper Engine
+        run: npm run scrape
+
+      - name: Commit and Push Updated Intelligence Database
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Prop Intel Bot"
+          git add public/data/intel.json
+          if git diff --staged --quiet; then
+            echo "No new changes to commit."
+          else
+            git commit -m "chore(intel): automated 24/7 prop intelligence sync [skip ci]"
+            git push origin HEAD:${{ github.ref }}
+          fi
+
+      - name: Build Web Terminal
+        run: npm run build
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
