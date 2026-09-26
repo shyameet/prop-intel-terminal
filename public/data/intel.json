@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T15:56:59.857Z",
+    "generatedAt": "2026-09-26T20:44:14.261Z",
     "totalEntries": 66,
     "activePromosCount": 49,
     "maxDiscountPercent": 91,
     "upcomingRadarCount": 8,
     "version": "1.0.0",
-    "executionTimeMs": 1383
+    "executionTimeMs": 1918
   },
   "upcomingRadar": [
     {
@@ -583,7 +583,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Apex Trader Funding Official",
       "sourceUrl": "https://apextraderfunding.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -609,7 +609,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Apex Trader Funding (Renewals) Official",
       "sourceUrl": "https://apextraderfunding.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -635,7 +635,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Bulenox Official",
       "sourceUrl": "https://bulenox.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -655,10 +655,10 @@
       ],
       "promoCode": "BULEN91",
       "discountPercent": 91,
-      "promoExpiry": "2026-09-28T15:56:58.367Z",
+      "promoExpiry": "2026-09-28T20:44:12.286Z",
       "sourceName": "Bulenox Official Promo Wire",
       "sourceUrl": "https://bulenox.com",
-      "timestamp": "2026-09-26T11:56:58.367Z",
+      "timestamp": "2026-09-26T16:44:12.286Z",
       "verified": true
     },
     {
@@ -678,10 +678,10 @@
       ],
       "promoCode": "SAVE80",
       "discountPercent": 80,
-      "promoExpiry": "2026-09-29T15:56:58.367Z",
+      "promoExpiry": "2026-09-29T20:44:12.286Z",
       "sourceName": "Apex Official Announcement",
       "sourceUrl": "https://apextraderfunding.com",
-      "timestamp": "2026-09-26T09:56:58.367Z",
+      "timestamp": "2026-09-26T14:44:12.286Z",
       "verified": true
     },
     {
@@ -707,7 +707,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Tradeify Official",
       "sourceUrl": "https://tradeify.co",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -733,7 +733,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Tradeify (Lightning) Official",
       "sourceUrl": "https://tradeify.co",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -759,7 +759,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "MyFundedFutures Official",
       "sourceUrl": "https://myfundedfutures.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -785,7 +785,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "MyFundedFutures (Rapid) Official",
       "sourceUrl": "https://myfundedfutures.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -811,7 +811,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "TakeProfitTrader Official",
       "sourceUrl": "https://takeprofittrader.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -837,7 +837,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Topstep Official",
       "sourceUrl": "https://topstep.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -863,7 +863,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "TradeDay Official",
       "sourceUrl": "https://tradeday.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -889,7 +889,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "UProfit Official",
       "sourceUrl": "https://uprofit.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -915,7 +915,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "TickTick Trader Official",
       "sourceUrl": "https://tickticktrader.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -941,7 +941,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Earn2Trade Official",
       "sourceUrl": "https://earn2trade.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -967,7 +967,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "BluSky Trading Official",
       "sourceUrl": "https://blusky.pro",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -993,7 +993,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Fast Track Trading Official",
       "sourceUrl": "https://fasttracktrading.net",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1019,7 +1019,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Elite Trader Funding Official",
       "sourceUrl": "https://elitetraderfunding.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1045,7 +1045,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "Breakout Prop Official",
       "sourceUrl": "https://breakoutprop.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1071,7 +1071,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "HyroTrader Official",
       "sourceUrl": "https://hyrotrader.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1097,7 +1097,7 @@
       "verifiedDate": "September 2026 (Pre-Launch)",
       "sourceName": "MyFundedPerpetuals Official",
       "sourceUrl": "https://myfundedfutures.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1123,7 +1123,7 @@
       "verifiedDate": "September 2026 (Live Confirmed)",
       "sourceName": "TradeThePool Official",
       "sourceUrl": "https://tradethepool.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
@@ -1149,11 +1149,11 @@
       "verifiedDate": "September 2026 (Alpha Phase)",
       "sourceName": "Prediction Prop Labs Official",
       "sourceUrl": "https://polymarket.com",
-      "timestamp": "2026-09-26T15:56:58.474Z",
+      "timestamp": "2026-09-26T20:44:12.343Z",
       "verified": true
     },
     {
-      "id": "reddit-rss-v4yq52z",
+      "id": "reddit-rss-knc1ws6",
       "title": "Traders Prop Firm : comment vous suivez votre vraie rentabilité ?",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1174,7 +1174,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-77k1c2z",
+      "id": "reddit-rss-lwv75g8",
       "title": "WMT users: what has your actual experience been so far?",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1211,10 +1211,10 @@
       ],
       "promoCode": "MFFU20",
       "discountPercent": 20,
-      "promoExpiry": "2026-09-30T15:56:58.367Z",
+      "promoExpiry": "2026-09-30T20:44:12.286Z",
       "sourceName": "MFFU Official Discord & X Announcement",
       "sourceUrl": "https://myfundedfutures.com",
-      "timestamp": "2026-09-26T03:56:58.367Z",
+      "timestamp": "2026-09-26T08:44:12.286Z",
       "verified": true
     },
     {
@@ -1234,10 +1234,10 @@
       ],
       "promoCode": "TRUSTED",
       "discountPercent": 40,
-      "promoExpiry": "2026-10-01T15:56:58.367Z",
+      "promoExpiry": "2026-10-01T20:44:12.286Z",
       "sourceName": "Tradeify Official Announcement",
       "sourceUrl": "https://tradeify.co",
-      "timestamp": "2026-09-26T01:56:58.367Z",
+      "timestamp": "2026-09-26T06:44:12.286Z",
       "verified": true
     },
     {
@@ -1262,11 +1262,34 @@
       "promoExpiry": "2026-12-31",
       "sourceName": "Official Announcement & Community Discord",
       "sourceUrl": "https://myfundedfutures.com",
-      "timestamp": "2026-09-25T21:56:58.367Z",
+      "timestamp": "2026-09-26T02:44:12.286Z",
       "verified": true
     },
     {
-      "id": "reddit-rss-5d5imj6",
+      "id": "intel-ticktick-014",
+      "title": "TickTick Trader Launches 50% OFF Spring Promo with Free Reset Vouchers",
+      "firm": "TickTick Trader",
+      "category": "Futures",
+      "eventType": "Flash Promo",
+      "urgency": "high",
+      "isUpcoming": false,
+      "summary": "TickTick Trader introduces a 50% discount across standard and express evaluation challenges with code TICK50.",
+      "details": [
+        "Free Tradovate access and mobile application support",
+        "No consistency rule during evaluation phases",
+        "Fast payout requests via crypto or direct ACH wire",
+        "Applies to 25k, 50k, and 100k account sizes"
+      ],
+      "promoCode": "TICK50",
+      "discountPercent": 50,
+      "promoExpiry": "2026-09-29T20:44:12.286Z",
+      "sourceName": "TickTick Trader Official Wire",
+      "sourceUrl": "https://tickticktrader.com",
+      "timestamp": "2026-09-26T00:44:12.286Z",
+      "verified": true
+    },
+    {
+      "id": "reddit-rss-i0mhjwh",
       "title": "A strategy that loses money on NQ still passed a Topstep 50k combine in 4 out of 10 simulations",
       "firm": "Topstep",
       "category": "Futures",
@@ -1287,29 +1310,6 @@
       "verified": false
     },
     {
-      "id": "intel-ticktick-014",
-      "title": "TickTick Trader Launches 50% OFF Spring Promo with Free Reset Vouchers",
-      "firm": "TickTick Trader",
-      "category": "Futures",
-      "eventType": "Flash Promo",
-      "urgency": "high",
-      "isUpcoming": false,
-      "summary": "TickTick Trader introduces a 50% discount across standard and express evaluation challenges with code TICK50.",
-      "details": [
-        "Free Tradovate access and mobile application support",
-        "No consistency rule during evaluation phases",
-        "Fast payout requests via crypto or direct ACH wire",
-        "Applies to 25k, 50k, and 100k account sizes"
-      ],
-      "promoCode": "TICK50",
-      "discountPercent": 50,
-      "promoExpiry": "2026-09-29T15:56:58.367Z",
-      "sourceName": "TickTick Trader Official Wire",
-      "sourceUrl": "https://tickticktrader.com",
-      "timestamp": "2026-09-25T19:56:58.367Z",
-      "verified": true
-    },
-    {
       "id": "intel-leeloo-023",
       "title": "LeeLoo Trading Launches 60% OFF Flash Promotion on Express Challenges",
       "firm": "LeeLoo Trading",
@@ -1326,10 +1326,10 @@
       ],
       "promoCode": "LEELOO60",
       "discountPercent": 60,
-      "promoExpiry": "2026-09-29T03:56:58.367Z",
+      "promoExpiry": "2026-09-29T08:44:12.286Z",
       "sourceName": "LeeLoo Trading Feed",
       "sourceUrl": "https://leelootrading.com",
-      "timestamp": "2026-09-25T14:56:58.367Z",
+      "timestamp": "2026-09-25T19:44:12.286Z",
       "verified": true
     },
     {
@@ -1349,10 +1349,10 @@
       ],
       "promoCode": "WAIVEFEE",
       "discountPercent": 40,
-      "promoExpiry": "2026-09-30T03:56:58.367Z",
+      "promoExpiry": "2026-09-30T08:44:12.286Z",
       "sourceName": "TakeProfitTrader Newsletter",
       "sourceUrl": "https://takeprofittrader.com",
-      "timestamp": "2026-09-25T09:56:58.367Z",
+      "timestamp": "2026-09-25T14:44:12.286Z",
       "verified": true
     },
     {
@@ -1372,10 +1372,10 @@
       ],
       "promoCode": "ETF50",
       "discountPercent": 50,
-      "promoExpiry": "2026-09-29T23:56:58.367Z",
+      "promoExpiry": "2026-09-30T04:44:12.286Z",
       "sourceName": "Elite Trader Funding Newsletter",
       "sourceUrl": "https://elitetraderfunding.com",
-      "timestamp": "2026-09-25T04:56:58.367Z",
+      "timestamp": "2026-09-25T09:44:12.286Z",
       "verified": true
     },
     {
@@ -1400,7 +1400,7 @@
       "promoExpiry": null,
       "sourceName": "FTMO Press & Executive Interview",
       "sourceUrl": "https://ftmo.com",
-      "timestamp": "2026-09-25T03:56:58.367Z",
+      "timestamp": "2026-09-25T08:44:12.286Z",
       "verified": true
     },
     {
@@ -1420,14 +1420,35 @@
       ],
       "promoCode": "HYRO20",
       "discountPercent": 20,
-      "promoExpiry": "2026-10-01T15:56:58.367Z",
+      "promoExpiry": "2026-10-01T20:44:12.286Z",
       "sourceName": "HyroTrader Product Release",
       "sourceUrl": "https://hyrotrader.com",
-      "timestamp": "2026-09-24T11:56:58.367Z",
+      "timestamp": "2026-09-24T16:44:12.286Z",
       "verified": true
     },
     {
-      "id": "reddit-rss-cu7vnpf",
+      "id": "reddit-rss-93q8aux",
+      "title": "Tradeify Banned My 3 Funded Accounts & Forfeited $5,407 in Profits",
+      "firm": "Tradeify",
+      "category": "Futures",
+      "eventType": "General Intel",
+      "urgency": "medium",
+      "isUpcoming": false,
+      "summary": "&#32; submitted by &#32; /u/Informal-Volume-6795 [link] &#32; [comments]...",
+      "details": [
+        "Scraped from r/PropFirm community discussion",
+        "Author: /u/Informal-Volume-6795"
+      ],
+      "promoCode": null,
+      "discountPercent": null,
+      "promoExpiry": null,
+      "sourceName": "r/PropFirm (Reddit Community)",
+      "sourceUrl": "https://www.reddit.com/r/propfirm/comments/1wqubm4/tradeify_banned_my_3_funded_accounts_forfeited/",
+      "timestamp": "2026-09-26T16:08:31.000Z",
+      "verified": false
+    },
+    {
+      "id": "reddit-rss-3uu1zgq",
       "title": "Risk first. Results second. ⚡",
       "firm": "Breakout Prop",
       "category": "Futures",
@@ -1448,7 +1469,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-9ave8ts",
+      "id": "reddit-rss-8y18vat",
       "title": "How fast are payouts from risework?",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1469,7 +1490,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-lr08iz7",
+      "id": "reddit-rss-b10nprq",
       "title": "Is Fintokei Prop Firm Legit ?",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1490,7 +1511,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-79x4ryy",
+      "id": "reddit-rss-oa6wix2",
       "title": "¿Alguien ha sido elegido para operar con cuentas Live de APEX?",
       "firm": "Apex Trader Funding",
       "category": "Futures",
@@ -1511,7 +1532,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-d68ezpv",
+      "id": "reddit-rss-cnxnzx4",
       "title": "Stuck on meeting the consistency rule",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1532,7 +1553,30 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-nyzazvw",
+      "id": "intel-topstep-006",
+      "title": "Topstep Upgrades TopstepX Platform: Zero Daily Loss Limit on Select Tiers",
+      "firm": "Topstep",
+      "category": "Futures",
+      "eventType": "Rule Change",
+      "urgency": "medium",
+      "isUpcoming": false,
+      "summary": "Topstep has introduced streamlined rule adjustments on their proprietary TopstepX platform, removing daily loss limits on specific account tiers to reduce accidental lockouts.",
+      "details": [
+        "TopstepX proprietary trading engine only",
+        "Only Maximum Loss Limit (trailing EOD) enforced",
+        "Free simulated practice account included with any active challenge",
+        "$49 reset promotion currently active on 50K accounts"
+      ],
+      "promoCode": "TOPSTEP49",
+      "discountPercent": 50,
+      "promoExpiry": "2026-10-01T20:44:12.286Z",
+      "sourceName": "Topstep Coaching & Changelog",
+      "sourceUrl": "https://topstep.com",
+      "timestamp": "2026-09-25T20:44:12.286Z",
+      "verified": true
+    },
+    {
+      "id": "reddit-rss-kwhx0uw",
       "title": "Favorite prop firm?",
       "firm": "Lucid Trading",
       "category": "Futures",
@@ -1553,7 +1597,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-p0947ix",
+      "id": "reddit-rss-gthy1dl",
       "title": "Entry rules",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1574,30 +1618,7 @@
       "verified": false
     },
     {
-      "id": "intel-topstep-006",
-      "title": "Topstep Upgrades TopstepX Platform: Zero Daily Loss Limit on Select Tiers",
-      "firm": "Topstep",
-      "category": "Futures",
-      "eventType": "Rule Change",
-      "urgency": "medium",
-      "isUpcoming": false,
-      "summary": "Topstep has introduced streamlined rule adjustments on their proprietary TopstepX platform, removing daily loss limits on specific account tiers to reduce accidental lockouts.",
-      "details": [
-        "TopstepX proprietary trading engine only",
-        "Only Maximum Loss Limit (trailing EOD) enforced",
-        "Free simulated practice account included with any active challenge",
-        "$49 reset promotion currently active on 50K accounts"
-      ],
-      "promoCode": "TOPSTEP49",
-      "discountPercent": 50,
-      "promoExpiry": "2026-10-01T15:56:58.367Z",
-      "sourceName": "Topstep Coaching & Changelog",
-      "sourceUrl": "https://topstep.com",
-      "timestamp": "2026-09-25T15:56:58.367Z",
-      "verified": true
-    },
-    {
-      "id": "reddit-rss-9ihbkw2",
+      "id": "reddit-rss-se2e8d8",
       "title": "Phidias is a shady prop firm, they are scammers",
       "firm": "Phidias Prop Firm",
       "category": "Futures",
@@ -1618,7 +1639,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-4athadk",
+      "id": "reddit-rss-hl72bae",
       "title": "Is there usually a gap between the position size you calculate and the one you actually place?",
       "firm": "TakeProfitTrader",
       "category": "Futures",
@@ -1639,7 +1660,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-x2eusvp",
+      "id": "reddit-rss-8v3pr21",
       "title": "How Important Is the Payout Process When Choosing a Prop Firm?",
       "firm": "Community Radar",
       "category": "Futures",
@@ -1660,7 +1681,7 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-zmjhj9q",
+      "id": "reddit-rss-5dzrcif",
       "title": "While there is a lot of negative talk about Tradeify at the moment. I haven’t had any issue",
       "firm": "Tradeify",
       "category": "Futures",
@@ -1681,27 +1702,6 @@
       "verified": false
     },
     {
-      "id": "reddit-rss-jevngyx",
-      "title": "Anyone used Funded futures family?",
-      "firm": "Community Radar",
-      "category": "Futures",
-      "eventType": "Flash Promo",
-      "urgency": "medium",
-      "isUpcoming": false,
-      "summary": "I looked on prop firm match and they have a huge discount. Anyone used them and got a payout? Never heard of them before. &#32; submitted by &#32; /u/Yourdad88 [link] &#32; [comments]...",
-      "details": [
-        "Scraped from r/PropFirm community discussion",
-        "Author: /u/Yourdad88"
-      ],
-      "promoCode": null,
-      "discountPercent": null,
-      "promoExpiry": null,
-      "sourceName": "r/PropFirm (Reddit Community)",
-      "sourceUrl": "https://www.reddit.com/r/propfirm/comments/1wpqbwv/anyone_used_funded_futures_family/",
-      "timestamp": "2026-09-25T07:53:25.000Z",
-      "verified": false
-    },
-    {
       "id": "intel-uprofit-012",
       "title": "UProfit Announces 30% OFF on 50K and 100K Freedom Programs",
       "firm": "UProfit",
@@ -1718,10 +1718,10 @@
       ],
       "promoCode": "UPROFIT30",
       "discountPercent": 30,
-      "promoExpiry": "2026-09-30T15:56:58.367Z",
+      "promoExpiry": "2026-09-30T20:44:12.286Z",
       "sourceName": "UProfit Announcements",
       "sourceUrl": "https://uprofit.com",
-      "timestamp": "2026-09-24T23:56:58.367Z",
+      "timestamp": "2026-09-25T04:44:12.286Z",
       "verified": true
     },
     {
@@ -1741,10 +1741,10 @@
       ],
       "promoCode": "CRYPTOBREAK",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-03T07:56:58.367Z",
+      "promoExpiry": "2026-10-03T12:44:12.286Z",
       "sourceName": "Breakout Product Roadmap",
       "sourceUrl": "https://breakoutprop.com",
-      "timestamp": "2026-09-24T15:56:58.367Z",
+      "timestamp": "2026-09-24T20:44:12.286Z",
       "verified": true
     },
     {
@@ -1764,10 +1764,10 @@
       ],
       "promoCode": "FTT25",
       "discountPercent": 25,
-      "promoExpiry": "2026-10-01T05:56:58.367Z",
+      "promoExpiry": "2026-10-01T10:44:12.286Z",
       "sourceName": "Fast Track Trading Update",
       "sourceUrl": "https://fasttracktrading.net",
-      "timestamp": "2026-09-24T13:56:58.367Z",
+      "timestamp": "2026-09-24T18:44:12.286Z",
       "verified": true
     },
     {
@@ -1787,10 +1787,10 @@
       ],
       "promoCode": "E2T20",
       "discountPercent": 20,
-      "promoExpiry": "2026-10-02T11:56:58.367Z",
+      "promoExpiry": "2026-10-02T16:44:12.286Z",
       "sourceName": "Earn2Trade Press Release",
       "sourceUrl": "https://earn2trade.com",
-      "timestamp": "2026-09-23T22:56:58.367Z",
+      "timestamp": "2026-09-24T03:44:12.286Z",
       "verified": true
     },
     {
@@ -1810,10 +1810,10 @@
       ],
       "promoCode": "TRADEDAY20",
       "discountPercent": 20,
-      "promoExpiry": "2026-10-04T23:56:58.367Z",
+      "promoExpiry": "2026-10-05T04:44:12.286Z",
       "sourceName": "TradeDay Official Blog",
       "sourceUrl": "https://tradeday.com",
-      "timestamp": "2026-09-23T15:56:58.367Z",
+      "timestamp": "2026-09-23T20:44:12.286Z",
       "verified": true
     },
     {
@@ -1833,10 +1833,10 @@
       ],
       "promoCode": "BLUSKY25",
       "discountPercent": 25,
-      "promoExpiry": "2026-10-03T07:56:58.367Z",
+      "promoExpiry": "2026-10-03T12:44:12.286Z",
       "sourceName": "BluSky Trading Portal",
       "sourceUrl": "https://blusky.pro",
-      "timestamp": "2026-09-23T07:56:58.367Z",
+      "timestamp": "2026-09-23T12:44:12.286Z",
       "verified": true
     },
     {
@@ -1856,10 +1856,10 @@
       ],
       "promoCode": "FNFUTURES",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-04T23:56:58.367Z",
+      "promoExpiry": "2026-10-05T04:44:12.286Z",
       "sourceName": "FundedNext Official Launch",
       "sourceUrl": "https://fundednext.com",
-      "timestamp": "2026-09-22T21:56:58.367Z",
+      "timestamp": "2026-09-23T02:44:12.286Z",
       "verified": true
     },
     {
@@ -1879,10 +1879,10 @@
       ],
       "promoCode": "LUCID30",
       "discountPercent": 30,
-      "promoExpiry": "2026-10-02T21:56:58.367Z",
+      "promoExpiry": "2026-10-03T02:44:12.286Z",
       "sourceName": "Lucid Trading Launch Wire",
       "sourceUrl": "https://lucidtrading.com",
-      "timestamp": "2026-09-22T16:56:58.367Z",
+      "timestamp": "2026-09-22T21:44:12.286Z",
       "verified": true
     },
     {
@@ -1907,7 +1907,7 @@
       "promoExpiry": "2026-12-31",
       "sourceName": "Fintech Press & Decentralized Markets Syndicate",
       "sourceUrl": "https://polymarket.com",
-      "timestamp": "2026-09-22T15:56:58.367Z",
+      "timestamp": "2026-09-22T20:44:12.286Z",
       "verified": true
     },
     {
@@ -1927,10 +1927,10 @@
       ],
       "promoCode": "SPEED25",
       "discountPercent": 25,
-      "promoExpiry": "2026-10-04T03:56:58.367Z",
+      "promoExpiry": "2026-10-04T08:44:12.286Z",
       "sourceName": "SpeedUp Trader Portal",
       "sourceUrl": "https://speeduptrader.com",
-      "timestamp": "2026-09-22T11:56:58.367Z",
+      "timestamp": "2026-09-22T16:44:12.286Z",
       "verified": true
     },
     {
@@ -1950,10 +1950,10 @@
       ],
       "promoCode": "TTPCRYPTO",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-04T13:56:58.367Z",
+      "promoExpiry": "2026-10-04T18:44:12.286Z",
       "sourceName": "Trade The Pool Portal",
       "sourceUrl": "https://tradethepool.com",
-      "timestamp": "2026-09-22T06:56:58.367Z",
+      "timestamp": "2026-09-22T11:44:12.286Z",
       "verified": true
     },
     {
@@ -1973,10 +1973,10 @@
       ],
       "promoCode": "AQUAFUTURES20",
       "discountPercent": 20,
-      "promoExpiry": "2026-10-02T11:56:58.367Z",
+      "promoExpiry": "2026-10-02T16:44:12.286Z",
       "sourceName": "AquaFunded Expansion Wire",
       "sourceUrl": "https://aquafunded.com",
-      "timestamp": "2026-09-22T01:56:58.367Z",
+      "timestamp": "2026-09-22T06:44:12.286Z",
       "verified": true
     },
     {
@@ -1996,10 +1996,10 @@
       ],
       "promoCode": "ONEUP15",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-06T15:56:58.367Z",
+      "promoExpiry": "2026-10-06T20:44:12.286Z",
       "sourceName": "OneUp Trader Portal",
       "sourceUrl": "https://oneuptrader.com",
-      "timestamp": "2026-09-21T10:56:58.367Z",
+      "timestamp": "2026-09-21T15:44:12.286Z",
       "verified": true
     },
     {
@@ -2019,10 +2019,10 @@
       ],
       "promoCode": "PHIDIAS15",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-04T23:56:58.367Z",
+      "promoExpiry": "2026-10-05T04:44:12.286Z",
       "sourceName": "Phidias Prop Official Release",
       "sourceUrl": "https://phidiaspropfirm.com",
-      "timestamp": "2026-09-21T05:56:58.367Z",
+      "timestamp": "2026-09-21T10:44:12.286Z",
       "verified": true
     },
     {
@@ -2042,10 +2042,10 @@
       ],
       "promoCode": "5ERSFUTURES",
       "discountPercent": 10,
-      "promoExpiry": "2026-10-05T19:56:58.367Z",
+      "promoExpiry": "2026-10-06T00:44:12.286Z",
       "sourceName": "The 5ers Press Release",
       "sourceUrl": "https://the5ers.com",
-      "timestamp": "2026-09-20T19:56:58.367Z",
+      "timestamp": "2026-09-21T00:44:12.286Z",
       "verified": true
     },
     {
@@ -2070,7 +2070,7 @@
       "promoExpiry": null,
       "sourceName": "Derivatives Market Review",
       "sourceUrl": "https://cmegroup.com",
-      "timestamp": "2026-09-19T23:56:58.367Z",
+      "timestamp": "2026-09-20T04:44:12.286Z",
       "verified": true
     },
     {
@@ -2090,10 +2090,10 @@
       ],
       "promoCode": "CFT10",
       "discountPercent": 10,
-      "promoExpiry": "2026-10-05T09:56:58.367Z",
+      "promoExpiry": "2026-10-05T14:44:12.286Z",
       "sourceName": "Crypto Fund Trader Changelog",
       "sourceUrl": "https://cryptofundtrader.com",
-      "timestamp": "2026-09-21T20:56:58.367Z",
+      "timestamp": "2026-09-22T01:44:12.286Z",
       "verified": true
     },
     {
@@ -2113,10 +2113,10 @@
       ],
       "promoCode": "BRIGHT15",
       "discountPercent": 15,
-      "promoExpiry": "2026-10-03T22:56:58.367Z",
+      "promoExpiry": "2026-10-04T03:44:12.286Z",
       "sourceName": "BrightFunded Platform Update",
       "sourceUrl": "https://brightfunded.com",
-      "timestamp": "2026-09-20T09:56:58.367Z",
+      "timestamp": "2026-09-20T14:44:12.286Z",
       "verified": true
     }
   ]
